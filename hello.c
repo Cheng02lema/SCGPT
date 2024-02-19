@@ -1,0 +1,2 @@
+# SCGPT
+print（“hello”）；
